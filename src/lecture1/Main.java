@@ -3,5 +3,6 @@ package lecture1;
 public class Main {
     public static void main(String[] args) {
         System.out.println("你好 牛魔");
+        System.out.println("削弱潘森");
     }
 }
